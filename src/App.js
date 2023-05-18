@@ -6,7 +6,7 @@ import firebase from "./FirebaseConfig";
 function App() {
   return (
     <div className="App">
-      <h2>Firebase Recipies</h2>
+      <h2 className="bg-success p-3 border rounded">Firebase Recipies</h2>
     </div>
   );
 }
